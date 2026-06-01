@@ -56,7 +56,6 @@ OpenWeather APIとローカルストレージを使って、日々のちょっ�
 
 ### 🗺️ 地域×情報マップ
 ![地域マップ](images/map-app.png)
-https://github.com/hikaru-taniguchi/portfolio/blob/main/map-app.png
 地図上に地域情報と天気をまとめて表示するアプリです。  
 移住や地域理解のきっかけになるようなものをイメージして作りました。
 
